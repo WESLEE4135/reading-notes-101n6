@@ -1,10 +1,14 @@
-# reading-notes-101n6 cambio de titulo
+# Weslee Caballero G.
 
-## title2
-### title3
-#### title4
-##### title5
-###### title6
+![291914410_5775784245861972_9211501669629212839_n](https://github.com/user-attachments/assets/b32b7c30-b1ca-4541-9672-86b8291c3083)
 
-CAMBIO 1
-Hola me llamo Wes
+Ingeniero pesquero en transición de desarrollo de herramientas digitales para mejorar competencias profesionales en el rubro pesquero como aumentar posibilidades profesionales en otros entornos con requerimientos de uso de aplicaciones en línea.
+
+## Información de contacto:
+
+- [Linkedin](https://www.linkedin.com/in/weslee-caballero-gonz%C3%A1lez-46024410b/ "Red Social profesional")
+- [Github](https://github.com/WESLEE4135 "Red social Profesional development Software")
+
+## Mis notas de lectura:
+- [Mindset](.//mindset.md)
+- 
