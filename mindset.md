@@ -7,3 +7,5 @@ de esta manera los errores son parte del aprendisaje continuo y refuerza la idea
 1. Prácticar los temas en duda
 2. Crearse un horario inflexible
 3. Completar todos los pendientes
+
+<strong>*[Enlace al README](./README.md)*<strong>
