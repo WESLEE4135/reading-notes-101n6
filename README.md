@@ -11,3 +11,4 @@ Ingeniero pesquero en transición de desarrollo de herramientas digitales para m
 
 ## Mis notas de lectura:
 - [Mindset](.//mindset.md)
+- [Read 06](.//read06.md)
