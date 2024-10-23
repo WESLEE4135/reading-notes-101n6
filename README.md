@@ -10,5 +10,6 @@ Ingeniero pesquero en transición de desarrollo de herramientas digitales para m
 - [Github](https://github.com/WESLEE4135 "Red social Profesional development Software")
 
 ## Mis notas de lectura:
-- [Mindset](.//mindset.md)
-- [Read 06](.//read06.md)
+- [Mindset](./mindset.md)
+- [Read 06](./read06.md)
+- [Read07](./read07.md)
